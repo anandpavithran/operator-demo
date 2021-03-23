@@ -1,0 +1,7 @@
+apiVersion: web.operator.io/v1
+kind: Web
+metadata:
+  name: example-web
+spec:
+  # Add fields here
+  size: 3

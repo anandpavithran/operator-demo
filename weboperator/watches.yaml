@@ -1,0 +1,5 @@
+---
+- version: v1
+  group: web.operator.io
+  kind: Web
+  role: web
